@@ -70,7 +70,7 @@ module.exports = plugins([
     webpack: (config) => {
       config.module.rules.unshift({
         test: /\.scss$/,
-        use: 'classnames-loader',
+        use: 'next-classnames-loader',
       });
 
       return config;

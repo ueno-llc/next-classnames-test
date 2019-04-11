@@ -1,7 +1,7 @@
 import * as React from 'react';
 // import classnames from 'classnames/bind';
 
-import s from './Yoyo.scss';
+import s from './other/Yoyo.scss';
 
 // const s = classnames.bind(styles);
 
